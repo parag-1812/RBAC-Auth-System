@@ -23,13 +23,20 @@ This project is designed to showcase how real-world applications protect APIs us
 ## 📂 Project Structure
 
 src
-├── config # Spring Security and JWT configuration
-├── controller # REST controllers for authentication and APIs
-├── filter # JWT authentication filter
-├── model # Entity classes and authentication response models
-├── repository # JPA repositories for database access
-├── service # Business logic for authentication and role handling
-└── utils # JWT token generation and validation utilities
+
+├── config # Spring Security and JWT configuration.
+
+├── controller # REST controllers for authentication and APIs.
+
+├── filter # JWT authentication filter.
+
+├── model # Entity classes and authentication response models.
+
+├── repository # JPA repositories for database access.
+
+├── service # Business logic for authentication and role handling.
+
+└── utils # JWT token generation and validation utilities.
 
 
 ---
